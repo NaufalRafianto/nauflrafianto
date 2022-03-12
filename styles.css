@@ -1,0 +1,40 @@
+@import url("https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@700&family=Dancing+Script:wght@500&family=Montserrat:wght@400;500&family=Pacifico&family=Poppins:wght@500;600;700&family=Sansita+Swashed:wght@500&display=swap");
+
+body {
+  min-height: 3000;
+}
+nav {
+  background-color: #b4cfb0;
+}
+
+.navbar-brand {
+  font-family: "Pacifico", serif;
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #b4cfb0;
+}
+
+.foto {
+  width: 15%;
+}
+
+#about {
+  background-color: #94b49f;
+}
+
+#project {
+  background-color: #789395;
+}
+#contact {
+  background-color: #94b49f;
+}
+
+.footer-bg {
+  background-color: #b4cfb0;
+}
+
+section {
+  scroll-margin-top: 5rem;
+}
