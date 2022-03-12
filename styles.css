@@ -24,14 +24,31 @@ nav {
   background-color: #94b49f;
 }
 
+.about-me {
+  text-align: justify;
+  padding: 2rem;
+}
+
 #project {
   background-color: #789395;
 }
 #contact {
+  background-color: #b4cfb0;
+}
+#gallery {
   background-color: #94b49f;
 }
 
+#gallery .row > * {
+  padding: 0;
+}
+.img-gallery {
+  width: 100%;
+}
+
 .footer-bg {
+  padding-top: 5rem;
+  padding-bottom: 0;
   background-color: #b4cfb0;
 }
 
